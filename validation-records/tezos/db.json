@@ -5,17 +5,20 @@
                 "KT1MeySKzt4FXWb1ZKfmHLVBvhNpELsehgpb": {
                     "balance": "335350000",
                     "estimatedRewards": "614624",
-                    "finalRewards": "614638"
+                    "finalRewards": "614638",
+                    "payoutOperationHash": "ooN7UkP88mhLnFRHXFqqjYpsxVdDkFCSUL3VxFuUbWwrKFB4GMg"
                 },
                 "KT1PzcxUBJkmSShkijYCVFPe62rswJoaqVKC": {
                     "balance": "100000",
                     "estimatedRewards": "183",
-                    "finalRewards": "183"
+                    "finalRewards": "183",
+                    "payoutOperationHash": "oohTm339VE9sfssWdj8N8BUs7oRmCmhdF6JGg8ayrp9KbJJKnb3"
                 },
                 "KT1UCaVprsNNPDGjdcsK9hHXTBRuxistrL4R": {
                     "balance": "54482950000",
                     "estimatedRewards": "99855590",
-                    "finalRewards": "99857879"
+                    "finalRewards": "99857879",
+                    "payoutOperationHash": "op1yjutD5st9skCQDWzj1FaxGz9uwCqFSuAzqh8R8x7w2xVpMCy"
                 }
             },
             "estimatedBakerRewards": {
