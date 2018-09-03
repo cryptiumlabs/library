@@ -16,7 +16,7 @@ Tezos经济和安全模型背后的合理性表明，流通中至少有8.25％�
 
 为了计算所涉及的XTZ的总量，必须汇总所有保证金和委托的XTZ。您可以在 TzScan ([TzScan Rolls Distribution](https://tzscan.io/rolls-distribution)) 的任何周期找到XTZ的总量，并通过将卷的数量乘以10,000（1 Roll = 10,000 XTZ）来计算它。
 
-为了找到比例，我们需要知道XTZ的总供应量，您可以在此处找到（https://tzscan.io）“Total ICO Supply label”旁边。例如，在Block level 63969之后，总供应量为764,317,931 XTZ。在第11周期期间，总供应量为~763,306,930 XTZ。
+为了找到比例，我们需要知道XTZ的总供应量，您可以在此处找到 [TzScan](https://tzscan.io) “Total ICO Supply label”旁边。例如，在Block level 63969之后，总供应量为764,317,931 XTZ。在第11周期期间，总供应量为~763,306,930 XTZ。
 
 如果小于总供应量（<100％），则线性增加保证金的要求。例如，如果只有50％的XTZ受到威胁，那么在第64周期，保证金要求将是16.5％（8.25％/ 50％）。这是一个表格，概述了不同的情景：
 
@@ -47,11 +47,11 @@ Cryptium Labs最大授权= 514,363.60 XTZ（20,000 / 3.8883％）
 如果您对委托，烘焙，Tezos，Michelson（智能合约语言）或与Tezos相关的任何其他问题有任何疑问，请随时联系
 
 ## 联系
-Telegram: https://t.me/cryptiumlabs
-网站: https://cryptium.ch
-Tezos 网站: http://tezos.cryptium.ch
-TzScan: https://tzscan.io/tz1eEnQhbwf6trb8Q8mPb2RaPkNk2rN7BKi8
-Twitter: https://twitter.com/cryptiumlabs
+* Telegram: https://t.me/cryptiumlabs
+* 网站: https://cryptium.ch
+* Tezos 网站: http://tezos.cryptium.ch
+* TzScan: https://tzscan.io/tz1eEnQhbwf6trb8Q8mPb2RaPkNk2rN7BKi8
+* Twitter: https://twitter.com/cryptiumlabs
 
 ## 关于 Cryptium Labs 的服务
 * 10% 代表收费
