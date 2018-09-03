@@ -4,7 +4,7 @@
 
 我们承认，信息网站（如列表页面）和Tezos生态系统中的参与者（尤其是委托人）可能会接触到不准确的信息，或者可能会遇到协议背后的经济问题。因此，在今天的文章中，我们将解释我们在Cryptium Labs内部使用的公式。
 
-此外，它将作为一个小功能发布在我们的网站（http://tezos.cryptium.ch）上，执行计算以确定您最喜欢的烘焙师的过度授权状态。对于最好奇且希望自己计算的人，请在下面找到解释。
+此外，它将作为一个小功能发布在我们的网站 [Cryptium Labs Tezos Portal](http://tezos.cryptium.ch) 上，执行计算以确定您最喜欢的烘焙师的过度授权状态。对于最好奇且希望自己计算的人，请在下面找到解释。
 
 
 ## 如何计算保证金要求
@@ -14,7 +14,7 @@ Tezos经济和安全模型背后的合理性表明，流通中至少有8.25％�
 
 但是，之前的价值并未考虑XTZ的比例。第64个周期的值为8.25％，表示XTZ总供应量的100％是赌注。
 
-为了计算所涉及的XTZ的总量，必须汇总所有保证金和委托的XTZ。您可以在TzScan（https://tzscan.io/rolls-distribution）的任何周期找到XTZ的总量，并通过将卷的数量乘以10,000（1 Roll = 10,000 XTZ）来计算它。
+为了计算所涉及的XTZ的总量，必须汇总所有保证金和委托的XTZ。您可以在 TzScan ([TzScan Rolls Distribution](https://tzscan.io/rolls-distribution)) 的任何周期找到XTZ的总量，并通过将卷的数量乘以10,000（1 Roll = 10,000 XTZ）来计算它。
 
 为了找到比例，我们需要知道XTZ的总供应量，您可以在此处找到（https://tzscan.io）“Total ICO Supply label”旁边。例如，在Block level 63969之后，总供应量为764,317,931 XTZ。在第11周期期间，总供应量为~763,306,930 XTZ。
 
