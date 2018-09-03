@@ -1,5 +1,5 @@
 # 如何用Tezos客户端委托Tezos(XTZ)及如何运行你自己的节点（betanet）
-上一篇委托指南(How to Deligate Zopf Tezzies (Tezos’ XTZ) with Pâtissière Awa from Cryptium Bäckerei)中，我编写了一个从源代码安装Tezos的手把手指南。然而由于依赖于 brew 存在许多的问题。今天的指南专门针对所有使用终端或控制台的用户。 包括以下部分：
+上一篇委托指南([How to Deligate Zopf Tezzies (Tezos’ XTZ) with Pâtissière Awa from Cryptium Bäckerei](https://medium.com/cryptium/how-to-deligate-zopf-tezzies-tezos-xtz-with-pâtissière-awa-from-cryptium-bäckerei-30db6fded810))中，我编写了一个从源代码安装Tezos的手把手指南。然而由于依赖于 brew 存在许多的问题。今天的指南专门针对所有使用终端或控制台的用户。 包括以下部分：
 1.	Installing Tezos from source
 2.	Running a Tezos node
 3.	Generating a Wallet with Tezos-Client
@@ -9,10 +9,10 @@
 7.	用Tezos客户端生成一个钱包
 8.	把XTZ委托给你喜爱的烘焙师（baker）
 
-由于最近出现了全节点([Reddit Thread](https://www.reddit.com/r/tezos/comments/93qk6p/so_was_there_a_ddos_attack_or_nah/?st=JKBGICK6&sh=a4ebea9e)的问题，本文将包括在后台运行您自己的节点，而不是连接到公共的全节点，例如我们的节点。
+由于最近出现了全节点([Reddit Thread](https://www.reddit.com/r/tezos/comments/93qk6p/so_was_there_a_ddos_attack_or_nah/?st=JKBGICK6&sh=a4ebea9e)) 的问题，本文将包括在后台运行您自己的节点，而不是连接到公共的全节点，例如我们的节点。
 撸起袖子开干！
 
-## 从源代码安装Tezos（不用brew）
+## 从源代码安装Tezos（不用 brew）
 注意：我用的MacOS，如果使用其他操作系统，确保使用对应的命令。 
 1.	安装XCode：
 ```
@@ -35,7 +35,7 @@ $ git clone -b betanet https://gitlab.com/tezos/tezos.git
 ```
 $ cd tezos
 ```
-6.	我没有装过libev。在这步之前你需要安装它（对不起又用到了brew，不过这是最容易的方式）：
+6.	我没有装过libev。在这步之前你需要安装它（对不起又用到了brew，不过这是最容易的方式)：
 ```
 $ ruby -e “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
 $ brew install libev
@@ -114,7 +114,7 @@ $ ./tezos-client gen keys <implicit account name>
 $ ./tezos-client list known addresses
 → my_implicit_account: tz136characterstring36characterstrin (encrypted sk known)
 ```
-3.	tz1地址充值，如上所示：`tz136characterstring36characterstrin
+3.	tz1地址充值，如上所示：`tz136characterstring36characterstrin`
 4.	检查账户余额
 ```
 $ ./tezos-client get balance for <tz1>
@@ -132,11 +132,11 @@ $ ./tezos-client add address cryptium_labs_baker tz1eEnQhbwf6trb8Q8mPb2RaPkNk2rN
 $ ./tezos-client originate account <my_originated_account> for <my_implicit_account> transferring <qty> from <my_implicit_account> --delegate cryptium_labs_baker --fee 0.00
 ```
 记住替换如下内容：
-•	<my_originated_account> 原始账号的名字
-•	<my_implicit_account> 前面创建的隐含账号名字
-•	<qty> 打算授权的XTZ数量
-•	cryptium_labs_baker 前面步骤选择的烘焙师名字
-•	注意：--fee 0.0 会自动设置费用的最小值，默认是0.05XTZ。
+*	<my_originated_account> 原始账号的名字
+*	<my_implicit_account> 前面创建的隐含账号名字
+*	<qty> 打算授权的XTZ数量
+*	cryptium_labs_baker 前面步骤选择的烘焙师名字
+*	注意：--fee 0.0 会自动设置费用的最小值，默认是0.05XTZ。
 例如，下面是我的例子：
 ```
 $ ./tezos-client originate account my_originated_account for my_implicit_account transferring 0.5 from my_implicit_account --delegate cryptium_labs_baker --fee 0.0
@@ -157,10 +157,11 @@ $ ./tezos-client list known contracts
 4.	搞定！
 
 资源清单：
-•	Tezos Alphanet documentation: http://doc.tzalpha.net
-•	Compilation of Tezos from Source: http://doc.tzalpha.net/introduction/howto.html#howto
-•	Compiling Betanet by Tezos Community: https://github.com/tezoscommunity/FAQ/blob/master/Compile_Betanet.md
+*	Tezos Alphanet documentation: http://doc.tzalpha.net
+*	Compilation of Tezos from Source: http://doc.tzalpha.net/introduction/howto.html#howto
+*	Compiling Betanet by Tezos Community: https://github.com/tezoscommunity/FAQ/blob/master/Compile_Betanet.md
+
 Other Delegation Guides
-•	How to Delegate Tezzies (Tezos’ XTZ) with Your Ledger Nano S — With Initial Setup & Screenshots
-•	How to Delegate Tezos XTZ with TezBox Online Wallet
-•	How to Delegate Tezos XTZ with Galleon Wallet
+*	How to Delegate Tezzies (Tezos’ XTZ) with Your Ledger Nano S — With Initial Setup & Screenshots
+*	How to Delegate Tezos XTZ with TezBox Online Wallet
+*	How to Delegate Tezos XTZ with Galleon Wallet
