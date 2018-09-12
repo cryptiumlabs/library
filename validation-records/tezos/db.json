@@ -667,92 +667,110 @@
                 "KT19wmcPhtfpAkid97US6xdffmCY42mrzVz9": {
                     "balance": "19812000000",
                     "estimatedRewards": "15294364",
-                    "finalRewards": "15294364"
+                    "finalRewards": "15294364",
+                    "payoutOperationHash": "ooDHweoq46qQferPw3jeko9vsMi4JDYSQwQQFa49cNsud3bLCWW"
                 },
                 "KT1BGRhFwUKuJEr57u7cDfpTRYbcL2btxA69": {
                     "balance": "53667000000",
                     "estimatedRewards": "41429569",
-                    "finalRewards": "41429569"
+                    "finalRewards": "41429569",
+                    "payoutOperationHash": "onwqsWkm8GRoqnZQ2u8XxwAt5Qa9E3p84k5LR24UXoDMjDMDXou"
                 },
                 "KT1BPYBrauChjoXLNb1kUEqqp2nwpm8jinK3": {
                     "balance": "500000000",
                     "estimatedRewards": "385987",
-                    "finalRewards": "385987"
+                    "finalRewards": "385987",
+                    "payoutOperationHash": "ooCkFnewzpWc51qoJQo1A7fV2mkAouS2sPfvcWMuY9zojzWu59p"
                 },
                 "KT1ComsYVCj9vDeCdDzsAWEoSumBQHfBt1iL": {
                     "balance": "10204000000",
                     "estimatedRewards": "7877230",
-                    "finalRewards": "7877230"
+                    "finalRewards": "7877230",
+                    "payoutOperationHash": "onxR1jgTq3YErLHS8gLg8g2a7evyvJhsid3kZXw7nfTmHBadWzM"
                 },
                 "KT1DCDEymroGTZhQDU7uomb3XZB2pHwHKDqk": {
                     "balance": "500000",
                     "estimatedRewards": "385",
-                    "finalRewards": "385"
+                    "finalRewards": "385",
+                    "payoutOperationHash": "opE3R5S57xrCRc4XYNJrgjJscR6qXirCwok2tJGWX2xQY6Vhh1M"
                 },
                 "KT1EN5gL5uaMGXf45cLs2UUNTPbyXWUSnpjy": {
                     "balance": "1999000",
                     "estimatedRewards": "1543",
-                    "finalRewards": "1543"
+                    "finalRewards": "1543",
+                    "payoutOperationHash": "onpxwQuUffev3YeZcmUgjqSgh1M3HyhvzjT3nWv5hCGqNkjP9E8"
                 },
                 "KT1ESrHRazKcYzDfFoSkz1zoW1zxvKFPADu8": {
                     "balance": "500000",
                     "estimatedRewards": "385",
-                    "finalRewards": "385"
+                    "finalRewards": "385",
+                    "payoutOperationHash": "ooD1NZupMRv73hZh84queGysxUc3Zp3iQ5734tKR1GCzCxbAnP7"
                 },
                 "KT1HPDKFe7fuJA9pGdZn7bFU4WUqi6GvzWHs": {
                     "balance": "5950000",
                     "estimatedRewards": "4593",
-                    "finalRewards": "4593"
+                    "finalRewards": "4593",
+                    "payoutOperationHash": "ooc6Wm6LM7JyWvvCM3NtgyLiKHo48wm1EbC5vhnKvFoHsEXRxHz"
                 },
                 "KT1HxpWaehsxrbaArzYKoNqj2oKHEnVuEFAz": {
                     "balance": "12821900",
                     "estimatedRewards": "9898",
-                    "finalRewards": "9898"
+                    "finalRewards": "9898",
+                    "payoutOperationHash": "ooSPk7Azf3gwxL3DNc4sD3sk7ebZNukw26YJcaPmC6ipEnCzaDS"
                 },
                 "KT1KEXHZvfCbEL5xPrCnucBGbK5eTNo3aWkh": {
                     "balance": "2000000000",
                     "estimatedRewards": "1543949",
-                    "finalRewards": "1543949"
+                    "finalRewards": "1543949",
+                    "payoutOperationHash": "ooSQRYbXnnPLhwc6rTnGbjiehfb24DBAQiQj3kR4WWREmkd9jy9"
                 },
                 "KT1L83v5gp9jrJKgMYiDUQfbTRdrCBkVgqJ2": {
                     "balance": "5099000000",
                     "estimatedRewards": "3936299",
-                    "finalRewards": "3936299"
+                    "finalRewards": "3936299",
+                    "payoutOperationHash": "ooJV7stoqUegFB9jpX21hHYDFcfYyNuRRz58ky7Q1Dgv8BaR9Zi"
                 },
                 "KT1MeySKzt4FXWb1ZKfmHLVBvhNpELsehgpb": {
                     "balance": "182780000",
                     "estimatedRewards": "141101",
-                    "finalRewards": "141101"
+                    "finalRewards": "141101",
+                    "payoutOperationHash": "ooVnu7QCamxzsPAJS1PUgizRaFfW3Ubw7qCXyc3JWXyenjidkZs"
                 },
                 "KT1N8XSCa8Z5T583YDYAmiH7iR4GfpQhzXgh": {
                     "balance": "999743000",
                     "estimatedRewards": "771776",
-                    "finalRewards": "771776"
+                    "finalRewards": "771776",
+                    "payoutOperationHash": "onzVjUUv6HtC7ec1ZCztXiqXLLXDzTBW8paWtuxwxC9xDoAnKih"
                 },
                 "KT1NVXuv57ze1q67uUDCape9rM3MmF2LLC7T": {
                     "balance": "275248744000",
                     "estimatedRewards": "212485085",
-                    "finalRewards": "212485085"
+                    "finalRewards": "212485085",
+                    "payoutOperationHash": "oog18RyodkDVJr8MnEdXnxy2xRMaczzLR43cz73ec4Fh1scSL1a"
                 },
                 "KT1RnFvW46bPeA1KCnFf2gpFGsRzRNAN2xBE": {
                     "balance": "800000000",
                     "estimatedRewards": "617579",
-                    "finalRewards": "617579"
+                    "finalRewards": "617579",
+                    "payoutOperationHash": "opacTJ68aoUeTkGCNNFQ2YGKXPkBFLoYuAAnns8QAxZThrj6PfE"
                 },
                 "KT1TKAaeaJGcqQuscvVbVFXPcjQCeuQYkn6D": {
                     "balance": "220000",
                     "estimatedRewards": "169",
-                    "finalRewards": "169"
+                    "finalRewards": "169",
+                    "payoutOperationHash": "ongCgkziVd3eSPyngLEfEpimQekfQhaQowgRAvpCobDZURkmzm4"
                 },
                 "KT1UCaVprsNNPDGjdcsK9hHXTBRuxistrL4R": {
                     "balance": "54482950000",
                     "estimatedRewards": "42059462",
-                    "finalRewards": "42059462"
+                    "finalRewards": "42059462",
+                    "payoutOperationHash": "opJ3T2RVkfzF1bxA2KmtwVdUrZ758VoW2nfPQyY5qr6v5VcdSSf"
                 },
                 "KT1VveELpvucCC2t8zwRGu8bcFLXYyKgq8fZ": {
                     "balance": "500000",
                     "estimatedRewards": "385",
-                    "finalRewards": "385"
+                    "finalRewards": "385",
+                    "payoutOperationHash": "opWZXiH2JMYQysCazPiirn58BE2TAQbzXeH82XTXakv1Di2pm8k"
                 }
             },
             "estimatedBakerRewards": {
@@ -1393,111 +1411,138 @@
             "delegators": {
                 "KT19wmcPhtfpAkid97US6xdffmCY42mrzVz9": {
                     "balance": "19812000000",
-                    "estimatedRewards": "16558879"
+                    "estimatedRewards": "16558879",
+                    "finalRewards": "16558879"
                 },
                 "KT1BGRhFwUKuJEr57u7cDfpTRYbcL2btxA69": {
                     "balance": "33667000000",
-                    "estimatedRewards": "28138895"
+                    "estimatedRewards": "28138895",
+                    "finalRewards": "28138896"
                 },
                 "KT1BPYBrauChjoXLNb1kUEqqp2nwpm8jinK3": {
                     "balance": "500000000",
-                    "estimatedRewards": "417900"
+                    "estimatedRewards": "417900",
+                    "finalRewards": "417900"
                 },
                 "KT1BqrnXHDq28mtb2yHf6Vk4tr3qKHCPYs9R": {
                     "balance": "20038997329",
-                    "estimatedRewards": "16748604"
+                    "estimatedRewards": "16748604",
+                    "finalRewards": "16748604"
                 },
                 "KT1C2DZaAkGcmzD89FAZLnmj9j2kZGpE9iBh": {
                     "balance": "20910600000",
-                    "estimatedRewards": "17477089"
+                    "estimatedRewards": "17477089",
+                    "finalRewards": "17477090"
                 },
                 "KT1ComsYVCj9vDeCdDzsAWEoSumBQHfBt1iL": {
                     "balance": "22074000000",
-                    "estimatedRewards": "18449460"
+                    "estimatedRewards": "18449460",
+                    "finalRewards": "18449460"
                 },
                 "KT1DCDEymroGTZhQDU7uomb3XZB2pHwHKDqk": {
                     "balance": "500000",
-                    "estimatedRewards": "417"
+                    "estimatedRewards": "417",
+                    "finalRewards": "417"
                 },
                 "KT1EN5gL5uaMGXf45cLs2UUNTPbyXWUSnpjy": {
                     "balance": "1999000",
-                    "estimatedRewards": "1670"
+                    "estimatedRewards": "1670",
+                    "finalRewards": "1670"
                 },
                 "KT1ESrHRazKcYzDfFoSkz1zoW1zxvKFPADu8": {
                     "balance": "500000",
-                    "estimatedRewards": "417"
+                    "estimatedRewards": "417",
+                    "finalRewards": "417"
                 },
                 "KT1HPDKFe7fuJA9pGdZn7bFU4WUqi6GvzWHs": {
                     "balance": "5950000",
-                    "estimatedRewards": "4973"
+                    "estimatedRewards": "4973",
+                    "finalRewards": "4973"
                 },
                 "KT1HxpWaehsxrbaArzYKoNqj2oKHEnVuEFAz": {
                     "balance": "12821900",
-                    "estimatedRewards": "10716"
+                    "estimatedRewards": "10716",
+                    "finalRewards": "10716"
                 },
                 "KT1KEXHZvfCbEL5xPrCnucBGbK5eTNo3aWkh": {
                     "balance": "2000000000",
-                    "estimatedRewards": "1671601"
+                    "estimatedRewards": "1671601",
+                    "finalRewards": "1671601"
                 },
                 "KT1L83v5gp9jrJKgMYiDUQfbTRdrCBkVgqJ2": {
                     "balance": "5099000000",
-                    "estimatedRewards": "4261746"
+                    "estimatedRewards": "4261746",
+                    "finalRewards": "4261746"
                 },
                 "KT1LE4uY9BEZxuyuRxASeSywY6SkyttwJcCL": {
                     "balance": "100000000",
-                    "estimatedRewards": "83580"
+                    "estimatedRewards": "83580",
+                    "finalRewards": "83580"
                 },
                 "KT1MeySKzt4FXWb1ZKfmHLVBvhNpELsehgpb": {
                     "balance": "183949240",
-                    "estimatedRewards": "153744"
+                    "estimatedRewards": "153744",
+                    "finalRewards": "153744"
                 },
                 "KT1N8XSCa8Z5T583YDYAmiH7iR4GfpQhzXgh": {
                     "balance": "999743000",
-                    "estimatedRewards": "835585"
+                    "estimatedRewards": "835585",
+                    "finalRewards": "835585"
                 },
                 "KT1NVXuv57ze1q67uUDCape9rM3MmF2LLC7T": {
                     "balance": "296637621900",
-                    "estimatedRewards": "247929873"
+                    "estimatedRewards": "247929873",
+                    "finalRewards": "247929877"
                 },
                 "KT1P9SZrfNtZvpxYpaDm6sNjFwXoxjFnknFD": {
                     "balance": "5993740000",
-                    "estimatedRewards": "5009570"
+                    "estimatedRewards": "5009570",
+                    "finalRewards": "5009570"
                 },
                 "KT1PqJytwdbnpv9Prmne3abKaPvAwTDeEKGn": {
                     "balance": "31390099000",
-                    "estimatedRewards": "26235860"
+                    "estimatedRewards": "26235860",
+                    "finalRewards": "26235860"
                 },
                 "KT1RnFvW46bPeA1KCnFf2gpFGsRzRNAN2xBE": {
                     "balance": "800000000",
-                    "estimatedRewards": "668640"
+                    "estimatedRewards": "668640",
+                    "finalRewards": "668640"
                 },
                 "KT1SGjEmoqgAPcoisLkEAYdVjnzzmeHTRvMK": {
                     "balance": "60257568359",
-                    "estimatedRewards": "50363305"
+                    "estimatedRewards": "50363305",
+                    "finalRewards": "50363306"
                 },
                 "KT1TKAaeaJGcqQuscvVbVFXPcjQCeuQYkn6D": {
                     "balance": "220000",
-                    "estimatedRewards": "183"
+                    "estimatedRewards": "183",
+                    "finalRewards": "183"
                 },
                 "KT1UCaVprsNNPDGjdcsK9hHXTBRuxistrL4R": {
                     "balance": "54482950000",
-                    "estimatedRewards": "45536876"
+                    "estimatedRewards": "45536876",
+                    "finalRewards": "45536877"
                 },
                 "KT1V5hzkxqfStk359syvyp1oXdH4kCtQF9Yp": {
                     "balance": "2994000000",
-                    "estimatedRewards": "2502386"
+                    "estimatedRewards": "2502386",
+                    "finalRewards": "2502386"
                 },
                 "KT1VveELpvucCC2t8zwRGu8bcFLXYyKgq8fZ": {
                     "balance": "500000",
-                    "estimatedRewards": "417"
+                    "estimatedRewards": "417",
+                    "finalRewards": "417"
                 },
                 "KT1X3MdGoCgtFENNg3WS7rnAtbu4dGtRGxeQ": {
                     "balance": "5000000000",
-                    "estimatedRewards": "4179002"
+                    "estimatedRewards": "4179002",
+                    "finalRewards": "4179002"
                 },
                 "KT1Xq4vreS2SVxaVrGMGLS3r74rvocVLz5KB": {
                     "balance": "50000000",
-                    "estimatedRewards": "41790"
+                    "estimatedRewards": "41790",
+                    "finalRewards": "41790"
                 }
             },
             "estimatedBakerRewards": {
@@ -1510,6 +1555,18 @@
             "fee": {
                 "denominator": 10,
                 "numerator": 1
+            },
+            "finalBakerRewards": {
+                "bondRewards": "18574230",
+                "feeRewards": "54142577",
+                "looseRewards": "18",
+                "totalRewards": "72716825"
+            },
+            "finalTotalRewards": {
+                "estimatedDifference": "-11",
+                "paid": "560000011",
+                "realized": "555000011",
+                "realizedDifference": "-5000000"
             },
             "stakingBalance": "603014713754",
             "stolenBlocks": []
@@ -2309,6 +2366,179 @@
                 "numerator": 1
             },
             "stakingBalance": "851095087498",
+            "stolenBlocks": []
+        },
+        "29": {
+            "delegators": {
+                "KT18thcPBkdd9iP3jNfeSbK7KW3fBubURGmS": {
+                    "balance": "19999740000",
+                    "estimatedRewards": "14391045"
+                },
+                "KT18vy4u8sPkekU7uex6nv65QdKy9tyLEdHu": {
+                    "balance": "800000000",
+                    "estimatedRewards": "575649"
+                },
+                "KT19wmcPhtfpAkid97US6xdffmCY42mrzVz9": {
+                    "balance": "19812000000",
+                    "estimatedRewards": "14255954"
+                },
+                "KT1B16r8kzx69EV6ZvX94XyzdCQwiCQ3eEof": {
+                    "balance": "6397500000",
+                    "estimatedRewards": "4603395"
+                },
+                "KT1BGRhFwUKuJEr57u7cDfpTRYbcL2btxA69": {
+                    "balance": "33803265255",
+                    "estimatedRewards": "24323532"
+                },
+                "KT1BPYBrauChjoXLNb1kUEqqp2nwpm8jinK3": {
+                    "balance": "501910779",
+                    "estimatedRewards": "361155"
+                },
+                "KT1BqrnXHDq28mtb2yHf6Vk4tr3qKHCPYs9R": {
+                    "balance": "20038997329",
+                    "estimatedRewards": "14419293"
+                },
+                "KT1C2DZaAkGcmzD89FAZLnmj9j2kZGpE9iBh": {
+                    "balance": "20910600000",
+                    "estimatedRewards": "15046465"
+                },
+                "KT1ComsYVCj9vDeCdDzsAWEoSumBQHfBt1iL": {
+                    "balance": "22101475258",
+                    "estimatedRewards": "15903373"
+                },
+                "KT1DCDEymroGTZhQDU7uomb3XZB2pHwHKDqk": {
+                    "balance": "500429",
+                    "estimatedRewards": "360"
+                },
+                "KT1DU1z84W9CmeSZeJRLEgVbXtijCMqJiCXb": {
+                    "balance": "550000000",
+                    "estimatedRewards": "395758"
+                },
+                "KT1DU39UxM2jvqNa9kbQsQhAkFfHuNZcXkxh": {
+                    "balance": "32000000000",
+                    "estimatedRewards": "23025972"
+                },
+                "KT1EN5gL5uaMGXf45cLs2UUNTPbyXWUSnpjy": {
+                    "balance": "1999000",
+                    "estimatedRewards": "1438"
+                },
+                "KT1ESrHRazKcYzDfFoSkz1zoW1zxvKFPADu8": {
+                    "balance": "501909",
+                    "estimatedRewards": "361"
+                },
+                "KT1FyUsU7fwr4hQq1AoWbwRZbbzHPdhyPHEL": {
+                    "balance": "80000000",
+                    "estimatedRewards": "57564"
+                },
+                "KT1HPDKFe7fuJA9pGdZn7bFU4WUqi6GvzWHs": {
+                    "balance": "5108",
+                    "estimatedRewards": "3"
+                },
+                "KT1HxpWaehsxrbaArzYKoNqj2oKHEnVuEFAz": {
+                    "balance": "12878909",
+                    "estimatedRewards": "9267"
+                },
+                "KT1KEXHZvfCbEL5xPrCnucBGbK5eTNo3aWkh": {
+                    "balance": "2005385192",
+                    "estimatedRewards": "1442998"
+                },
+                "KT1L83v5gp9jrJKgMYiDUQfbTRdrCBkVgqJ2": {
+                    "balance": "5099000000",
+                    "estimatedRewards": "3669044"
+                },
+                "KT1LE4uY9BEZxuyuRxASeSywY6SkyttwJcCL": {
+                    "balance": "100000000",
+                    "estimatedRewards": "71956"
+                },
+                "KT1M3LFTzgNc7sqXpTP5wAvJZPNLWD3cVqoZ": {
+                    "balance": "109999480000",
+                    "estimatedRewards": "79151404"
+                },
+                "KT1MeySKzt4FXWb1ZKfmHLVBvhNpELsehgpb": {
+                    "balance": "186087695",
+                    "estimatedRewards": "133901"
+                },
+                "KT1N8XSCa8Z5T583YDYAmiH7iR4GfpQhzXgh": {
+                    "balance": "1002434904",
+                    "estimatedRewards": "721313"
+                },
+                "KT1NVXuv57ze1q67uUDCape9rM3MmF2LLC7T": {
+                    "balance": "372882850932",
+                    "estimatedRewards": "268312191"
+                },
+                "KT1P9SZrfNtZvpxYpaDm6sNjFwXoxjFnknFD": {
+                    "balance": "5993740000",
+                    "estimatedRewards": "4312865"
+                },
+                "KT1PqJytwdbnpv9Prmne3abKaPvAwTDeEKGn": {
+                    "balance": "31434691048",
+                    "estimatedRewards": "22619197"
+                },
+                "KT1PzcxUBJkmSShkijYCVFPe62rswJoaqVKC": {
+                    "balance": "2508368",
+                    "estimatedRewards": "1804"
+                },
+                "KT1RnFvW46bPeA1KCnFf2gpFGsRzRNAN2xBE": {
+                    "balance": "800000000",
+                    "estimatedRewards": "575649"
+                },
+                "KT1SGjEmoqgAPcoisLkEAYdVjnzzmeHTRvMK": {
+                    "balance": "60257867830",
+                    "estimatedRewards": "43359249"
+                },
+                "KT1TKAaeaJGcqQuscvVbVFXPcjQCeuQYkn6D": {
+                    "balance": "220988",
+                    "estimatedRewards": "159"
+                },
+                "KT1ThEE47QNWfmABRQ6cMDazQDWfbp1wUmsj": {
+                    "balance": "3234966149",
+                    "estimatedRewards": "2327757"
+                },
+                "KT1UCaVprsNNPDGjdcsK9hHXTBRuxistrL4R": {
+                    "balance": "54827939944",
+                    "estimatedRewards": "39452081"
+                },
+                "KT1V5Wdnu1AGr4CcUTW8ZNMLZTeeFwxuV16y": {
+                    "balance": "6746120843",
+                    "estimatedRewards": "4854249"
+                },
+                "KT1V5hzkxqfStk359syvyp1oXdH4kCtQF9Yp": {
+                    "balance": "2994000000",
+                    "estimatedRewards": "2154367"
+                },
+                "KT1VveELpvucCC2t8zwRGu8bcFLXYyKgq8fZ": {
+                    "balance": "500000",
+                    "estimatedRewards": "359"
+                },
+                "KT1WZ65mUDyy5XmaenbfxLd4U7jc5WWKiw1f": {
+                    "balance": "9642999",
+                    "estimatedRewards": "6938"
+                },
+                "KT1WdJg66xNQvAtJdr8HfJMMP2bmAc73Qpyu": {
+                    "balance": "550000000",
+                    "estimatedRewards": "395758"
+                },
+                "KT1WhfFiGaARcEte5q7mBbxgRn49meH1aV7P": {
+                    "balance": "217279863",
+                    "estimatedRewards": "156346"
+                },
+                "KT1X3MdGoCgtFENNg3WS7rnAtbu4dGtRGxeQ": {
+                    "balance": "9998390000",
+                    "estimatedRewards": "7194457"
+                }
+            },
+            "estimatedBakerRewards": {
+                "bondRewards": "56128171",
+                "feeRewards": "67587182",
+                "looseRewards": "21",
+                "totalRewards": "123715374"
+            },
+            "estimatedTotalRewards": "732000000",
+            "fee": {
+                "denominator": 10,
+                "numerator": 1
+            },
+            "stakingBalance": "915557437654",
             "stolenBlocks": []
         }
     }
