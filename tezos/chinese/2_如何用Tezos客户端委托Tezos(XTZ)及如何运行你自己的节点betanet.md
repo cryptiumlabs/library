@@ -1,13 +1,9 @@
 # 如何用Tezos客户端委托Tezos(XTZ)及如何运行你自己的节点（betanet）
 上一篇委托指南([How to Deligate Zopf Tezzies (Tezos’ XTZ) with Pâtissière Awa from Cryptium Bäckerei](https://medium.com/cryptium/how-to-deligate-zopf-tezzies-tezos-xtz-with-pâtissière-awa-from-cryptium-bäckerei-30db6fded810))中，我编写了一个从源代码安装Tezos的手把手指南。然而由于依赖于 brew 存在许多的问题。今天的指南专门针对所有使用终端或控制台的用户。 包括以下部分：
-1.	Installing Tezos from source
-2.	Running a Tezos node
-3.	Generating a Wallet with Tezos-Client
-4.	Delegating XTZ to your favourite baker
-5.	从源代码安装Tezos
-6.	运行Tezos节点
-7.	用Tezos客户端生成一个钱包
-8.	把XTZ委托给你喜爱的烘焙师（baker）
+1.	从源代码安装Tezos
+2.	运行Tezos节点
+3.	用Tezos客户端生成一个钱包
+4.	把XTZ委托给你喜爱的烘焙师（baker）
 
 由于最近出现了全节点([Reddit Thread](https://www.reddit.com/r/tezos/comments/93qk6p/so_was_there_a_ddos_attack_or_nah/?st=JKBGICK6&sh=a4ebea9e)) 的问题，本文将包括在后台运行您自己的节点，而不是连接到公共的全节点，例如我们的节点。
 撸起袖子开干！
