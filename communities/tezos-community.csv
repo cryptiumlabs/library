@@ -1,4 +1,4 @@
-Country,Name ,Activity,Twitter
+Country,Name,Activity,Twitter
 Argentina,Ceibo XTZ,Baker,@CeiboXTZ
 Argentina,Tezos Argentina,Community,@TezosArg
 Australia,XTZ Delegate,Baker,
@@ -11,9 +11,9 @@ Brazil,Just a Baker,Baker,
 Brazil,TezosBr,Baker,
 Brazil,Tezos Brazil,Community,@tezosbrazil
 Canada,Hayek Lab,Baker,
-Canada,Tz Bank,Baker,
-Canada,Tezos Commons,Community,@TezosCommons ‏
+Canada,Tz Bank,Baker, ‏
 Canada,Tezos Canada,Community,@Tezos__Canada
+Canada,Tezos Montreal,Community,@tezosmtl
 China,Wetez Wallet,Baker,@Wetez_wallet
 China,Tezos Hong Kong,Community,@TezosHK
 China,Tezos Shenzhen,Community,@TezosShenzhen
@@ -85,6 +85,7 @@ USA,TZ Bake,Baker,
 USA,Tezos USA,Community,@TezosUSA ‏
 USA,Cryptonomic,Development,
 USA,Obsidian Systems,Development,@obsidian_llc
+USA,Tezos Commons,Community,@TezosCommons
 USA,Tezos Chicago,Community,@TezosChicago
 USA,Tezos Alabama,Community,@TezosAlabama
 USA,Tezos Boston,Community,@TezosBoston
